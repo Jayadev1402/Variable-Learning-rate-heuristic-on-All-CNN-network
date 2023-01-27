@@ -1,5 +1,7 @@
 # Variable-Learning-rate-heuristic-on-AllCNN-network
 Learning rate
+In this problem, we will see a
+heuristic that helps find out a good schedule for the learning rate
                                      
     η = 10^-4 + t /T0 * ηmax, if t ≤ T0  
 
